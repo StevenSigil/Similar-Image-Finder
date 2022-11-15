@@ -1,0 +1,93 @@
+[
+  {
+    "target": {
+      "path": "C:/Path/To/DupCheck/Targets/SCN_0215.jpg",
+      "file": "SCN_0215.jpg",
+      "error_dir": "/errors/IMAGE_ERRORS.json",
+      "is_target": true,
+      "width": 5072,
+      "height": 6568,
+      "scaled_width": 571,
+      "scaled_height": 739
+    },
+    "matches": [
+      {
+        "path": "C:/Path/To/DupCheck/Searches/01/Photo.0021.jpg",
+        "file": "Photo.0021.jpg",
+        "error_dir": "/errors/IMAGE_ERRORS.json",
+        "is_target": false,
+        "width": 2897,
+        "height": 2064,
+        "scaled_width": 695,
+        "scaled_height": 495,
+        "pct_matched": "3.7669512807634358"
+      },
+      {
+        "path": "C:/Path/To/DupCheck/Searches/01/SCN_0215.jpg",
+        "file": "SCN_0215.jpg",
+        "error_dir": "/errors/IMAGE_ERRORS.json",
+        "is_target": false,
+        "width": 5072,
+        "height": 6568,
+        "scaled_width": 456,
+        "scaled_height": 591,
+        "pct_matched": "31.10492107706592"
+      },
+      {
+        "path": "C:/Path/To/DupCheck/Searches/02/SCN_0156_00.jpg",
+        "file": "SCN_0156_00.jpg",
+        "error_dir": "/errors/IMAGE_ERRORS.json",
+        "is_target": false,
+        "width": 6776,
+        "height": 5072,
+        "scaled_width": 610,
+        "scaled_height": 456,
+        "pct_matched": "0.07112375533428165"
+      },
+      {
+        "path": "C:/Path/To/DupCheck/Searches/02/SCN_0156_01.jpg",
+        "file": "SCN_0156_01.jpg",
+        "error_dir": "/errors/IMAGE_ERRORS.json",
+        "is_target": false,
+        "width": 5072,
+        "height": 6776,
+        "scaled_width": 456,
+        "scaled_height": 610,
+        "pct_matched": "0.07727975270479134"
+      }
+    ],
+    "paths_checked": [
+      "C:/Path/To/DupCheck/Searches/01",
+      "C:/Path/To/DupCheck/Searches/02"
+    ],
+    "stats": {
+      "amt_files_checked": 5580,
+      "possible_files": 5603,
+      "amt_matches": 4,
+      "saved_at": "11:9::15:13"
+    }
+  },
+  {
+    "target": {
+      "path": "C:/Path/To/DupCheck/Targets/SCN_0216.jpg",
+      "file": "SCN_0216.jpg",
+      "error_dir": "/errors/IMAGE_ERRORS.json",
+      "is_target": true,
+      "width": 5072,
+      "height": 6648,
+      "scaled_width": 571,
+      "scaled_height": 748
+    },
+    "matches": [],
+    "paths_checked": [
+      "C:/Path/To/DupCheck/Searches/01",
+      "C:/Path/To/DupCheck/Searches/02"
+    ],
+    "stats": {
+      "amt_files_checked": 1148,
+      "possible_files": 5603,
+      "amt_matches": 0,
+      "saved_at": "11:9::15:35"
+    }
+  }
+]

@@ -1,4 +1,4 @@
-# Same Image Finder
+# Similar Image Finder
 
 A program that compares one target image to a/many directory(s) to search for closely-matching images using the [OpenCV](https://opencv.org/) packages, and sped up by being able to run on multiple cores thanks to [joblib](https://joblib.readthedocs.io/).
 
